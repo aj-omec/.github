@@ -1,3 +1,13 @@
+---
+name: IOS MCN Common Issue Template
+about: Common Issue Template for IOS MCN github projects unless specified
+  in the respective repo
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 IOS-MCN Releases issues/feedback
 ================================
 User Information:
