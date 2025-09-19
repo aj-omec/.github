@@ -1,7 +1,6 @@
 ---
-name: IOS MCN Common Issue Template
-about: Common Issue Template for IOS MCN github projects unless specified
-  in the respective repo
+name: IOS-MCN Releases issues/feedback Template
+about: Common Issue Template for IOS-MCN Releases issues/feedback Template
 title: ''
 labels: ''
 assignees: ''
